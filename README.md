@@ -29,4 +29,6 @@ Strikethrough -> folding hands
 
 Bold -> raising hands 
 
-Underline -> Raise or Fold
+Italics -> Raise or Fold
+
+//Need to find a way to put colour in each of the cells
